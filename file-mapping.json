@@ -1,0 +1,29 @@
+{
+  "repo": "inclinedadarsh/event-management",
+  "branch": "main",
+  "files": {
+    "1": "README.md",
+    "2": ".gitignore",
+    "3": "backend/package.json",
+    "4": "backend/.env",
+    "5": "backend/src/utils/password.js",
+    "6": "backend/src/utils/database.js",
+    "7": "backend/src/utils/auth.js",
+    "8": "backend/src/utils/admin.js",
+    "9": "backend/src/controllers/authController.js",
+    "10": "backend/src/controllers/eventController.js",
+    "11": "backend/src/controllers/registrationController.js",
+    "12": "backend/src/routes/auth.js",
+    "13": "backend/src/routes/events.js",
+    "14": "backend/src/routes/registrations.js",
+    "15": "backend/src/server.js",
+    "16": "frontend/css/styles.css",
+    "17": "frontend/js/api.js",
+    "18": "frontend/js/auth.js",
+    "19": "frontend/js/userDashboard.js",
+    "20": "frontend/js/adminDashboard.js",
+    "21": "frontend/index.html",
+    "22": "frontend/dashboard.html",
+    "23": "frontend/admin.html"
+  }
+}
